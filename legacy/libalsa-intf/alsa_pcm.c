@@ -46,10 +46,6 @@
 #include <sound/compress_params.h>
 #include "alsa_audio.h"
 
-#define __force
-#define __bitwise
-#define __user
-
 #define DEBUG 1
 
 enum format_alias {
